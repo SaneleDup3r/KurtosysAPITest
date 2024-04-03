@@ -1,3 +1,5 @@
+#Framework used : RestAssured with Java
+
 # pre requisite to run tests
 Need to install
 1. Java JDK
